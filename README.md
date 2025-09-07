@@ -12,12 +12,8 @@
 
 - 🔭 Currently working on **Professional Portfolio Websites & Tinder-Inspired Portfolio**
 - 🌱 Learning **Cloud Computing, Machine Learning & Advanced Web Technologies**
-- 🎓 B.Tech Computer Science @ Babu Banarasi Das University (Expected 2027)
-- 🏀 Former Basketball Team Representative at Spring Dale College
-- 💼 Specializing in **React, TypeScript & Modern Web Development**
-- 🏆 **Certified:** IBM Web Development Basics & Oracle Cloud Infrastructure Associate
 - 📫 Reach me: **akshat1972005@gmail.com** | **nahidcode05@gmail.com**
-- 📍 Based in **Lucknow, Uttar Pradesh, India**
+- 📍 Based in **India**
 
 <br/>
 
@@ -71,27 +67,12 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
 ![](https://github-readme-stats.vercel.app/api?username=AKranger05&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AKranger05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKranger05&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
-## 🏆 GitHub Achievements
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=AKranger05&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKranger05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=github-readme-stats)
 
 ## 💡 Random Dev Quote
-<div align="center">
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 ## 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=AKranger05&limit=5&theme=dark&combine_all_yearly_contributions=true)
