@@ -4,7 +4,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;Cloud+Computing+Enthusiast+☁️;React+%26+TypeScript+Ninja+⚛️;Building+Cool+Stuff+🚀;Always+Learning+📚)](https://git.io/typing-svg)
 
-### 🌟 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
