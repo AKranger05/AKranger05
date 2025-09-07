@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-**🔭 Currently working on:** Coffee Website
+**🔭 Currently working on:** a Coffee Website project
 
 **📫 Contact:** akshat1972005@gmail.com | nahidcode05@gmail.com
 
@@ -24,14 +24,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/contactakshattiwari05" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://instagram.com/wtf.akshat" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="#" onclick="navigator.clipboard.writeText('akshat1972005@gmail.com, nahidcode05@gmail.com')">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-</p>
+
 
 ## 💻 Languages and Tools
 
@@ -76,7 +69,7 @@
 <img width="41%" src="https://github-readme-stats.vercel.app/api?username=AKranger05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=F85D7F"/>
 <img width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=AKranger05&theme=radical&hide_border=true&background=0D1117"/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKranger05&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKranger05&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117"/>
 
 </div>
 
