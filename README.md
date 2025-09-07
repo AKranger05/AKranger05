@@ -83,7 +83,7 @@
   
 ### 💼 Portfolio Websites
 [![Professional Portfolio](https://img.shields.io/badge/Professional_Portfolio-Live-blue?style=for-the-badge&logo=vercel)](https://akshat-portfolio-ruddy.vercel.app)
-[![Personal Website](https://img.shields.io/badge/Personal_Website-Live-pink?style=for-the-badge&logo=vercel)](https://your-tinder-portfolio-link.vercel.app)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-Live-pink?style=for-the-badge&logo=vercel)](https://akshat-tiwari-portfolio.vercel.app)
 
 </div>
 
