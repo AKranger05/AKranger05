@@ -4,21 +4,17 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+💻;Cloud+Computing+Enthusiast+☁️;React+%26+TypeScript+Ninja+⚛️;Building+Cool+Stuff+🚀;Always+Learning+📚)](https://git.io/typing-svg)
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="350" alt="Coding gif"/>
-
 ### 🌟 About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-```javascript
-const akshat = {
-  currentWork: ["Professional Portfolio", "Tinder-Inspired Portfolio"],
-  learning: ["Cloud Computing", "Machine Learning", "Advanced Web Tech"],
-  contact: ["akshat1972005@gmail.com", "nahidcode05@gmail.com"],
-  location: "India 🇮🇳",
-  funFact: "I turn coffee into code ☕ → 💻"
-};
-```
+**🔭 Currently working on:** Coffee Website
+
+**📫 Contact:** akshat1972005@gmail.com | nahidcode05@gmail.com
+
+**🇮🇳 Based in:** India
+
+**☕ Fun Fact:** I turn coffee into code!
 
 </div>
 
@@ -33,12 +29,12 @@ const akshat = {
 <a href="https://instagram.com/wtf.akshat" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
-<a href="mailto:akshat1972005@gmail.com">
+<a href="#" onclick="navigator.clipboard.writeText('akshat1972005@gmail.com, nahidcode05@gmail.com')">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
 
-## 💻 Tech Arsenal
+## 💻 Languages and Tools
 
 <div align="center">
 
@@ -78,10 +74,10 @@ const akshat = {
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AKranger05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=F85D7F"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AKranger05&theme=radical&hide_border=true&background=0D1117"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api?username=AKranger05&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=F85D7F"/>
+<img width="41%" src="https://github-readme-streak-stats.herokuapp.com/?user=AKranger05&theme=radical&hide_border=true&background=0D1117"/>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKranger05&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKranger05&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0D1117"/>
 
 </div>
 
@@ -110,9 +106,9 @@ const akshat = {
 
 <div align="center">
 
-### 💬 Profile Views & Visitors
+### 💬 Profile Views
 
-![Profile Views](https://visitcount.itsvg.in/api?id=AKranger05&label=Profile%20Views&color=FF6B6B&icon=5&pretty=true)
+[![](https://visitcount.itsvg.in/api?id=AKranger05&label=Profile%20Views&color=FF6B6B&pretty=true)](https://visitcount.itsvg.in)
 
 **✨ "Code is poetry written in logic" ✨**
 
