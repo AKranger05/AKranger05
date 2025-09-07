@@ -102,11 +102,7 @@
   
 ### 💼 Portfolio Websites
 [![Professional Portfolio](https://img.shields.io/badge/Professional_Portfolio-Live-blue?style=for-the-badge&logo=vercel)](https://akshat-portfolio-ruddy.vercel.app)
-[![Tinder Portfolio](https://img.shields.io/badge/Tinder_Portfolio-Live-pink?style=for-the-badge&logo=vercel)](https://your-tinder-portfolio-link.vercel.app)
-
-### 📜 Certifications
-![IBM](https://img.shields.io/badge/IBM-Web_Development_Basics-blue?style=for-the-badge&logo=ibm)
-![Oracle](https://img.shields.io/badge/Oracle-OCI_Foundations_Associate-red?style=for-the-badge&logo=oracle)
+[![Personal Website](https://img.shields.io/badge/Personal_Website-Live-pink?style=for-the-badge&logo=vercel)](https://your-tinder-portfolio-link.vercel.app)
 
 </div>
 
