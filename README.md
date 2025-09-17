@@ -90,7 +90,7 @@
 <div align="center">
 
 [![Professional Portfolio](https://img.shields.io/badge/🎯_Professional_Portfolio-Live_Demo-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://akshat-portfolio-ruddy.vercel.app)
-[![Personal Website](https://img.shields.io/badge/💝_Personal_Website-Live_Demo-pink?style=for-the-badge&logo=vercel&logoColor=white)](https://your-tinder-portfolio-link.vercel.app)
+[![Personal Website](https://img.shields.io/badge/💝_Personal_Website-Live_Demo-pink?style=for-the-badge&logo=vercel&logoColor=white)](https://akshat-tiwari-portfolio.vercel.app/)
 
 </div>
 
